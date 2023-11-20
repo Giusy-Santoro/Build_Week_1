@@ -139,3 +139,14 @@ form {
 #pippo {
   line-height: 1.5em;
 }
+
+
+#button:enabled {
+  background-color: #00ffff;
+  border: none;
+  color: #0b133d;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: rgba(0, 255, 255, 0.12) 0px 2px 30px 15px,
+    rgba(0, 255, 255, 0.32) 0px 2px 30px 15px;
+}
